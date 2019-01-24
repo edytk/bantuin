@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BANTUIN</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="bg_color">#F2F2F2</string>
+    <string name="google_maps_API_key">AIzaSyDisV02vIqeeYcGV-f504Xu5zsVddRcKJg</string>
+    <string-array name="Spinner1">
+        <item>-Select Category-</item>
+        <item>Electronic</item>
+        <item>Mechanic</item>
+        <item>Daily Skill</item>
+    </string-array>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+</resources>

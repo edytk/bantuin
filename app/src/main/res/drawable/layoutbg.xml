@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- solid background -->
+            <solid android:color="#FFFFFF"/>
+            <!-- draw a border around rectangle shape -->
+            <stroke
+                android:color="#CDCDD3"
+                android:width="2dp" />
+            <!-- draw 35 dp radius for each corner -->
+            <corners android:radius="7dp"/>
+
+
+            <padding
+            android:bottom="2dp"
+            android:left="2dp"
+            android:right="-1dp"
+            android:top="-1dp" />
+        </shape>
+    </item>
+
+    <!--<item>-->
+    <!---->
+        <!--<shape>-->
+            <!--&lt;!&ndash; set the shadow color here &ndash;&gt;-->
+            <!--<stroke-->
+                <!--android:width="2dp"-->
+                <!--android:color="#CDCDD3" />-->
+
+            <!--&lt;!&ndash; setting the thickness of shadow (positive value will give shadow on that side) &ndash;&gt;-->
+
+            <!--<padding-->
+                <!--android:bottom="2dp"-->
+                <!--android:left="2dp"-->
+                <!--android:right="-1dp"-->
+                <!--android:top="-1dp" />-->
+
+            <!--<corners android:radius="9dp" />-->
+        <!--</shape>-->
+        <!--<shape>-->
+            <!--<solid android:color="@color/colorPrimaryDark" />-->
+            <!--<corners android:radius="9dp" />-->
+        <!--</shape>-->
+        <!---->
+    <!--</item>-->
+
+    <!--&lt;!&ndash; Background &ndash;&gt;-->
+
+    <!--<item>-->
+        <!--<shape>-->
+            <!--<solid android:color="#00000" />-->
+            <!--<corners android:radius="9dp" />-->
+        <!--</shape>-->
+    <!--</item>-->
+</selector>
